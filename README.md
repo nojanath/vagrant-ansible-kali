@@ -24,6 +24,11 @@ cd vagrant-ansible-kali
 vagrant up
 ```
 
+## Kali Credentials
+
+vagrant/vagrant
+
+https://www.kali.org/docs/introduction/default-credentials/
 
 
 
