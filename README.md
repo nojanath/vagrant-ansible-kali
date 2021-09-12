@@ -1,6 +1,6 @@
 # Vagrant + Ansible + Kali
 
-This is a starting point for your own Kali configuration using Vagrant, Ansible, and Kali. Ideally, you would fork this repo and configure Ansible to install your favorite Kali tools and shared folders.
+This is a starting point for your own Kali configuration using Vagrant, Ansible, and Kali. Ideally, you would fork this repo and configure Vagrant and Ansible to install your favorite Kali tools and shared folders.
 
 VMware Fusion is the virtual environment in use here but the Vagrantfile can be easily modified for VMware Workstation or VirtualBox.
 
