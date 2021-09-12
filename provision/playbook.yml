@@ -10,3 +10,5 @@
     apt:
       name: ['gobuster', 'jq', 'seclists']
       update_cache: yes
+  - name: Mount shared folders
+    ansible.builtin.shell: /usr/lib/kali_tweaks/data/mount-shared-folders
